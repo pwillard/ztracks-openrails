@@ -38,8 +38,8 @@ In practice, the last step is easily accomplished by raising the edges of the ba
 
  The end result should look like this:
 
-![Alt text](IMG/00.JPG?raw=true "Image1")
-![Alt text](IMG/01.JPG?raw=true "Image2")
+![image 0](IMG/00.JPG?raw=true "Image1")
+![image 1](IMG/01.JPG?raw=true "Image2")
 
 
 Needed:   Other formats - glTF and Blend files.
