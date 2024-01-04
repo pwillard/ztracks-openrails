@@ -34,6 +34,12 @@ About LODs: I think we can more or less keep the same basic LOD setup and distan
 2000m: Delete the tops of the rails
 4000m: Reduce the ballast profile to a single square polygon. This should be the width of the original ballast layer, set at the height of the top of the original ballast layer
 
-In practice, the last step is easily accomplished by raising the edges of the ballast to the top level, target welding the verts of the center section to the outer vertices of the now-raised edges, and then using Unwrap UVW (or the Blender equivalent) to remap the resulting polygons to the correct width on the map
+In practice, the last step is easily accomplished by raising the edges of the ballast to the top level, target welding the verts of the center section to the outer vertices of the now-raised edges, and then using Unwrap UVW (or the Blender equivalent) to remap the resulting polygons to the correct width on the map.
+
+ The end result should look like this:
+
+![Alt text](IMG/00.JPG?raw=true "Image1")
+![Alt text](IMG/01.JPG?raw=true "Image2")
+
 
 Needed:   Other formats - glTF and Blend files.
